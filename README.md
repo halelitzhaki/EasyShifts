@@ -84,6 +84,9 @@ Once the application is running, you can access the EasyShifts platform through 
 
 ## Acknowledgments
 
-This project was developed as part of an academic assignment to practice advanced Python and JavaScript programming concepts.
+This project was developed as part of an academic assignment to practice advanced Python and JavaScript programming concepts and studying Programming Engineer.
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
