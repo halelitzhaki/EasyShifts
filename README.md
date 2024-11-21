@@ -1,4 +1,4 @@
-# EasyShifts
+# Easy Shifts
 
 ## Introduction
 
@@ -48,9 +48,9 @@ To set up the EasyShifts application locally, follow these steps:
 
 1. Clone the repository: 
 ```bash
-git clone https://github.com/AlonMesh/EasyShifts.git
+git clone https://github.com/halelitzhaki/easy-shifts.git
 ```
-2. Navigate to the project directory: `cd easyshifts`
+2. Navigate to the project directory: `cd easy-shifts`
 
 This project is dependent on `sqlalchemy`, `pymysql`, and `websockets`. To install the required packages, run the following command:
 
@@ -81,3 +81,9 @@ pip install -r Backend/requirements.txt
 ## Usage
 
 Once the application is running, you can access the EasyShifts platform through your web browser. Managers can log in and start managing workplaces, schedules, and employee requests. Employees can register, view their shifts, and submit shift requests.
+
+## Acknowledgments
+
+This project was developed as part of an academic assignment to practice advanced Python and JavaScript programming concepts.
+
+
