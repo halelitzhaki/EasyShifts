@@ -15,14 +15,6 @@ https://github.com/AlonMesh/EasyShifts/assets/97172662/a2ec1f9e-c905-48a0-8183-4
 - **Employee Management**: Managers can approve or reject new employee registrations for their workplaces.
 - **Shift Viewing**: Employees can view their assigned shifts for upcoming dates.
 
-## Table of Contents
-* [Project Structure](#project-structure)
-* [Installation](#installation)
-* [Running the Application](#running-the-application)
-* [Usage](#usage)
-* [Authors](#authors)
-
-
 ## Project Structure
 
 The frontend of EasyShifts is built using React, while the backend is implemented in Python. The backend server listens for incoming requests from the frontend and interacts with a MySQL database.
